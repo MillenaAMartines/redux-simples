@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Exercicio React-Redtesteux-Simples.</h1>
+      <h1> React - Redux - Simples.</h1>
       <div className="linha">
         <Intervalo></Intervalo>
       </div>
@@ -17,7 +17,7 @@ function App() {
       <div className="linha">
         <Media ></Media>
         <Soma ></Soma>
-        <Sorteio ></Sorteio>
+        <Sorteio ></Sorteio> 
       </div>
 
     </div>

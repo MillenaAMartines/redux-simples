@@ -18,6 +18,7 @@ root.render(
   </Provider>
 
 );
+// provaider é o que faz a integração entre o react e o redux.
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
